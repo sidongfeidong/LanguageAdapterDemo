@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">言語の適応</string>
+
+
+    <string name="userNameTip">ユーザー名を入力してください</string>
+    <string name="pwdTip">パスワードを入力してください</string>
+    <string name="login">ログイン</string>
+    <string name="reset">リロール</string>
+
+
+    <string name="userNameNoEmpty">ユーザー名が空!</string>
+    <string name="pwdNoEmpty"> 暗証番号が空!</string>
+    <string name="loginSuccess">ログイン成功 </string>
+    <string name="userNameOrPwdError">ユーザー名やパスワード誤った!</string>
+</resources>
